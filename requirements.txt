@@ -6,3 +6,4 @@ torch
 snntorch
 torchvision
 pandas
+IPython
